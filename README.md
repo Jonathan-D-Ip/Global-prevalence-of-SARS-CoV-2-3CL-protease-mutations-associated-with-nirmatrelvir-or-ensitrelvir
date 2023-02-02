@@ -1,8 +1,8 @@
+### Global prevalence of SARS-CoV-2 3CL protease mutations associated with nirmatrelvir or ensitrelvir resistance
+
 # Overview
 
 This repository contains the data for reproducing the results presented in the manuscript
-
-### Global prevalence of SARS-CoV-2 3CL protease mutations associated with nirmatrelvir or ensitrelvir resistance
 
 Jonathan Daniel Ip<sup>1</sup>, Allen Wing-Ho Chu<sup>1</sup>, Wan-Mui Chan<sup>1</sup>, Rhoda Cheuk-Ying Leung<sup>1</sup>, Syed Muhammad Umer Abdullah<sup>2</sup>, Yanni Sun<sup>2</sup>, Kelvin Kai-Wang To<sup>1,3,4,5#</sup>
 
