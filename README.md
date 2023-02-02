@@ -22,11 +22,11 @@ Author affiliations
 
 ## Contents
 
-Data is present in the directory `data`. Figures generated from each data file are embedded within the file.
+The code used to calculate the raw numbers for plotting the figures is included the jupyter notebook file under src. 
 
 ## Operating system
 
-All files were generated on a Microsoft Windows 10 Operating System.
+The code was developed and run under the Juptyter notebook enviroment. While the Jupyter notebook hosted using Windows 11 WSL Ubuntu 18.04 system. 
 
 ## License
 
