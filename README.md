@@ -23,7 +23,7 @@ Author affiliations
 ## Contents
 
 The code used to calculate the raw numbers for plotting the figures is included the jupyter notebook file under the src folder. 
-The data folder contains input data for the analysis. However, since the metadata.tsv is too huge, it wasn't uploaded due to restrictions by GitHub. It is available upon request. 
+The data folder contains input data for the analysis. 
 
 ## Operating system
 
