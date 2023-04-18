@@ -38,4 +38,4 @@ This repository is licensed as [CC0 1.0](https://github.com/SMUAbdullah/paper-Om
 For queries or comments, please email at [kelvinto@hku.hk](mailto:kelvinto@hku.hk)
 
 ## Citation
-N/A
+Ip, J. D., Wing-Ho Chu, A., Chan, W.-M., Cheuk-Ying Leung, R., Umer Abdullah, S. M., Sun, Y., &amp; Kai-Wang To, K. (2023). Global prevalence of SARS-COV-2 3CL protease mutations associated with nirmatrelvir or ENSITRELVIR resistance. EBioMedicine, 91, 104559. https://doi.org/10.1016/j.ebiom.2023.104559 
